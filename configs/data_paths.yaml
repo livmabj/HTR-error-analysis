@@ -1,0 +1,7 @@
+data:
+  handwritten:
+    raw_images: data/raw/handwritten
+    region_images: data/intermediate/handwritten/cropped_regions
+    line_images: data/intermediate/handwritten/cropped_lines
+    outputs: data/predictions/handwritten
+    ground_truths: data/GT/handwritten
